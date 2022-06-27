@@ -24,7 +24,7 @@ São modelos e diagramas para projetar Banco de Dados relacionais, utilizando co
 
 MER (Modelo Entidade-Relacionamento) um modelo entidade relacionamento é uma maneira sistemática de descrever e definir um processo de negócio. É possível usar o MER para ilustrar como os dados são estruturados no processo do negócio, ou para detalhar como os dados são armazenados em um banco de dados relacional.
 
-DER (Diagrama Entidade-Relacionamento), nada mais é que a representação gráfica do modelo MER. Em termos conceituais podemos dizer que o DER é um modelo diagramático que descreve o modelo de dados de um sistema com alto nível de abstração. Ele é usado para representar o modelo conceitual do negócio. 
+DER (Diagrama Entidade-Relacionamento), nada mais é que a representação gráfica do modelo MER. Em termos conceituais podemos dizer que o DER é um modelo diagramático que descreve o modelo de dados de um sistema com alto nível de abstração.
 
 Diagramas são criados para representar graficamente as entidades, atributos e relacionamentos, denominados DER (Diagrama Entidade-Relacionamento).
 
