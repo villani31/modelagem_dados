@@ -1,12 +1,10 @@
 # Modelagem de Dados
 
-<p align="center">
-  <img src="https://github.com/villani31/Amazon_EMR/blob/main/imagens/amazon_emr.png?w=740" alt="Amazon_EMR"height=400px >
-</p>
-
 Uma boa modelagem de banco de dados faz com que a empresa obtenha vários ganhos de eficiência e produtividade. É por meio dessa estrutura formada por hardware, software, dados, pessoas e procedimentos que são feitas consultas ao sistema, com os mais diversos objetivos.
 
-imagem
+<p align="center">
+  <img src="https://github.com/villani31/modelagem_dados/blob/main/img01.jpg?w=740" alt="Modelagem"height=400px >
+</p>
 
 A modelagem de dados é um processo mais preciso na geração de informações com qualidade, que geram valor para o negócio de uma empresa. Nessa etapa, são definida as estruturas das tabelas, entidades, associações e restrições para os dados, que serão armazenados e gerenciado em um banco de dados.
 Por isso é importante entender o negócio e os dados que estão sendo coletados, para desenvolver essa modelagem de dados de forma adequada nas formas de negócio do software e da analise que será implementada, se definido de forma assertiva, facilitará na analise de informações estratégicas e na tomada de decisões correta.
