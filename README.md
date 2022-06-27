@@ -56,7 +56,15 @@ Exemplo de um diagrama que ilustra os objetos:
   <img src="https://github.com/villani31/modelagem_dados/blob/main/img/diagrama_exemplo.jpg?w=740" alt="Modelagem"height=400px >
 </p>
 
-## Criando um Modelo de Dados.
+## Conceitos básico sobre chaves:
+
+Uma chave consiste em uma ou mais colunas combinadas de uma relação (tabela), cujos os valores são usados para identificar de forma única, ou um conjunto de linhas relacionadas.
+
+* Chave primária: Caracteriza-se por ser valor único de um registro, tendo como principal objetivo, garantir a exclusividade do registro, ou seja, evita duplicidade.
+
+* Chave estrangeira: Mesmo valor da chave primária, mas em outra tabela, como principal objetivo, relacionamento entre duas tabelas.
+
+## Criado um Modelo de Dados.
 
 Entendendo um pouco do conceito, criei um modelo de banco de dados, que representa uma loja, nesse caso usei o banco de dados Mysql Server, mas o conceito e lógica, pode ser usada para qualquer banco de dados, sendo para criar um Software, ou um projeto de Engenharia de Dados | Ciências de Dados.
 
