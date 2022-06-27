@@ -60,7 +60,7 @@ Exemplo de um diagrama que ilustra os objetos:
 
 ## Criando um Modelo de Dados.
 
-Entendendo um pouco do conceito, criei um modelo de banco de dados, que representa uma loja, nesse caso usei o banco de dados Mysql Server, mas o conceito e lógica, pode ser usada para qualquer banco de dados, ou também, sendo para criar um software, ou um projeto de Engenharia de Dados | Ciências de Dados.
+Entendendo um pouco do conceito, criei um modelo de banco de dados, que representa uma loja, nesse caso usei o banco de dados Mysql Server, mas o conceito e lógica, pode ser usada para qualquer banco de dados, sendo para criar um Software, ou um projeto de Engenharia de Dados | Ciências de Dados.
 
 Nesse projeto foi criado 10 tabelas, e demonstrando o relacionamento entre as tabelas, conforme imagens:
 
@@ -84,7 +84,7 @@ Em um ambiente mais complexo, em que temos um ERP, não tem como ser criado um �
 
 ## Conclusão
 
-A transformação digital é um fenômeno que acontece, e vem acontecendo, a Big Data, vem se tornando uma arma poderosa para garantir a competitividade e retorno de resultado para o negócio. Para garantir um bom resultado do início ao fim do projeto, a modelagem de dados, ela que vai lidar  com todas as características dos dados, variedade, volume, complexidade e valor.
+A transformação digital é um fenômeno que acontece, e vem acontecendo, a Big Data, vem se tornando uma arma poderosa para garantir a competitividade e retorno de resultado para o negócio. Para garantir um bom resultado do início ao fim do projeto, a modelagem de dados, ela que vai lidar com todas as características dos dados, variedade, volume, complexidade e valor.
 
 Entendendo como os dados estão relacionados, de forma geral, traz um grande ganho, com entendimento do negócio, facilitando o desenvolvimento de um software, analise e criação de modelo por um cientista de dados, agilizando a entrega de um produto final.
 
