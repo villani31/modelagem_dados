@@ -50,6 +50,10 @@ As entidades podem ser conectadas entre si, por meio de relacionamentos. Trata-s
 
 Exemplo de um diagrama que ilustra os objetos:
 
+**Entidades:** Representado pelo símbolo
+**Atributos:** Representado pelo símbolo
+**Relacionamentos:** Representado pelo símbolo
+
 <p align="center">
   <img src="https://github.com/villani31/modelagem_dados/blob/main/img/diagrama_exemplo.jpg?w=740" alt="Modelagem"height=400px >
 </p>
