@@ -31,7 +31,7 @@ Diagramas são criados para representar graficamente as entidades, atributos e r
 O MER permite representar de forma abstrata a estrutura que construirá o banco de dados. É composto pelos seguintes objetos:
 
 **Entidades:**
-Qual quer coisa, seja uma pessoa, objeto, máquina, estrutura ou equipamento, desde que tenha existência física ou virtual, é chamado de entidade.
+Qualquer coisa, seja uma pessoa, objeto, máquina, estrutura ou equipamento, desde que tenha existência física ou virtual, é chamado de entidade.
 
 **Atributos:**
 Todo objeto ou pessoa que existe em um espaço virtual ou físico, é possuidor de atributo. Por exemplo, um cliente tem como atributo, nome, endereço, idade, entre outros.
@@ -48,7 +48,11 @@ As entidades podem ser conectadas entre si, por meio de relacionamentos. Trata-s
 * Relacionamento de cardinalidade 1:n: Denominado “um para muitos”,  usado quando um elemento da entidade X se relaciona com um ou mais elementos da entidade Y;
 * Relacionamento de cardinalidade m:n: Denominado “muitos para muitos”, é quando vários elementos da entidade X se relacionam com um ou mais elementos da entidade Y.
 
-imagem
+Exemplo de um diagrama que ilustra os objetos:
+
+<p align="center">
+  <img src="https://github.com/villani31/modelagem_dados/blob/main/img/diagrama_exemplo.jpg?w=740" alt="Modelagem"height=400px >
+</p>
 
 ## Criando um Modelo de Dados.
 
