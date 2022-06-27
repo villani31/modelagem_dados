@@ -54,8 +54,21 @@ Entendendo um pouco dos conceito, criei um modelo de banco de dados, que represe
 
 Nesse projeto foi criado 10 tabelas, e demosntrando o relacionamento entre as tabelas, conforme imagens:
 
-imagens
-imagens
+<p align="center">
+  <img src="https://github.com/villani31/modelagem_dados/blob/main/img/Diagrama_modelagem_DB.png?w=740" alt="Modelagem"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/modelagem_dados/blob/main/img/Diagrama_modelagem_DB_02.png?w=740" alt="Modelagem"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/modelagem_dados/blob/main/img/sql01.png?w=740" alt="Modelagem"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/modelagem_dados/blob/main/img/sql02.png?w=740" alt="Modelagem"height=400px >
+</p>
 
 Em um ambiente, como onde temos um ERP, não tem como ser criado um único modelo, ficaria muito dificil a visualização e entendimento, uma forma profissional de se fazer, seria criar modelos separada, como por exemplo (Modelo de vendas, Modelo de cadastro de cliente), de forma separada, visualmente, fica mais claro o entendimento.
 
