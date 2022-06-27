@@ -16,8 +16,6 @@ Criar um modelo que explique as características de funcionamento e comportament
 
 Uma modelagem bem definida é importante na identificação de melhorias, correções e novas funcionalidades, que podem surgir após projeto concluido.
 
-werewrwer
-
 ## Entidade e relacionamento (MER e DER):
 
 São modelos e diagramas para projetar Banco de Dados relacionais, utilizando como base a relação de objetos reais, e sendo representado por meio de entidades e relacionamentos. 
