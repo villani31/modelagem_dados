@@ -8,7 +8,7 @@ Uma boa modelagem de banco de dados faz com que a empresa obtenha vários ganhos
 
 A modelagem de dados é um processo mais preciso na geração de informações com qualidade, que geram valor para o negócio de uma empresa. Nessa etapa, são definidas as estruturas das tabelas, entidades, associações e restrições para os dados, que serão armazenados e gerenciado em um banco de dados.
 
-Por isso é importante entender o negócio e os dados que estão sendo coletados, para desenvolver essa modelagem de dados de forma adequada, no desenvolvimento do software e da análise que será implementada, se definido de forma assertiva, facilitará na análise de informações estratégicas e na tomada de decisões correta. ***
+Por isso é importante entender o negócio e os dados que estão sendo armazenados, para desenvolver essa modelagem de dados de forma adequada, no desenvolvimento do software e da análise que será implementada, se definido de forma assertiva, facilitará na inserção e extração dos dados, gerando informações estratégicas, para tomada de decisões correta.
 
 ## O que é modelagem de dados:
 
