@@ -29,10 +29,10 @@ Diagramas são criados para representar graficamente as entidades, atributos e r
 
 O MER permite representar de forma abstrata a estrutura que irá construir o banco de dados, é composto pelos seguintes objetos:
 
-**** Entidades:
+**Entidades:**
 Qual quer coisa, seja uma pessoa, objeto, máquina, estrutura ou equipamento, desde que tenha existência física ou virtual, é chamado de entidade.
 
-**** Atributos:
+**Atributos:**
 Todo objeto ou pessoa que existe em um espaço virtual ou físico, é possuidor de atributo. Por exemplo, um cliente tem como atributo, nome, endereço, idade, entre outros.
 
 * Atributos Simples: Possuem apenas uma propriedade associada à entidade, por exemplo, o atributo nome da entidade pessoa;
@@ -40,7 +40,7 @@ Todo objeto ou pessoa que existe em um espaço virtual ou físico, é possuidor 
 * Atributos Monovalorados: Possui um único valor para a entidade, como por exemplo, o campo nome relacionado à entidade pessoa;
 * Atributos Multivalorados: São atributos que possuem mais de um valor. Por exemplo, o caso do telefone associado à entidade pessoa, pois é possível não ter nenhum telefone ou ter vários.
 
-**** Relacionamentos:
+**Relacionamentos:**
 As entidades podem ser conectadas entre si, por meio de relacionamentos. Trata-se de uma estrutura que indica a associação de elementos de uma ou mais entidades.
 
 * Relacionamento de cardinalidade 1:1: Denominado “um para um”, é usado quando um elemento da entidade X se relaciona com um elemento da entidade Y;
