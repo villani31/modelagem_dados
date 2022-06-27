@@ -1,19 +1,20 @@
 # Modelagem de Dados
 
-Uma boa modelagem de banco de dados faz com que a empresa obtenha vários ganhos de eficiência e produtividade. É por meio dessa estrutura formada por hardware, software, dados, pessoas e procedimentos que são feitas consultas ao sistema, com os mais diversos objetivos.
+Uma boa modelagem de banco de dados faz com que a empresa obtenha vários ganhos de eficiência e produtividade. É por meio dessa estrutura formada por hardware, software, dados, pessoas e procedimentos que são feitas consultas ao sistema, com os mais diversos objetivos.
 
 <p align="center">
   <img src="https://github.com/villani31/modelagem_dados/blob/main/img/img01.jpg?w=740" alt="Modelagem"height=400px >
 </p>
 
-A modelagem de dados é um processo mais preciso na geração de informações com qualidade, que geram valor para o negócio de uma empresa. Nessa etapa, são definida as estruturas das tabelas, entidades, associações e restrições para os dados, que serão armazenados e gerenciado em um banco de dados.
-Por isso é importante entender o negócio e os dados que estão sendo coletados, para desenvolver essa modelagem de dados de forma adequada nas formas de negócio do software e da analise que será implementada, se definido de forma assertiva, facilitará na analise de informações estratégicas e na tomada de decisões correta.
+A modelagem de dados é um processo mais preciso na geração de informações com qualidade, que geram valor para o negócio de uma empresa. Nessa etapa, são definidas as estruturas das tabelas, entidades, associações e restrições para os dados, que serão armazenados e gerenciado em um banco de dados.
+
+Por isso é importante entender o negócio e os dados que estão sendo coletados, para desenvolver essa modelagem de dados de forma adequada, no desenvolvimento do software e da análise que será implementada, se definido de forma assertiva, facilitará na análise de informações estratégicas e na tomada de decisões correta. ***
 
 ## O que é modelagem de dados:
 
-Criar um modelo que explique as características de funcionamento e comportamento que os dados serão disponibilizados, qual a relação entre as tabelas em um banco de dados. 
+Criar um modelo que explique as características de funcionamento e comportamento que os dados serão disponibilizados, e definir qual a relação entre as tabelas em um banco de dados. 
 
-Uma modelagem bem definida é importante na identificação de melhorias, correções e novas funcionalidades, na analise ou produto a ser desenvolvido.
+Uma modelagem bem definida é importante na identificação de melhorias, correções e novas funcionalidades, que podem surgir após projeto concluido.
 
 werewrwer
 
@@ -27,7 +28,7 @@ DER (Diagrama Entidade-Relacionamento), nada mais é que a representação gráf
 
 Diagramas são criados para representar graficamente as entidades, atributos e relacionamentos, denominados DER (Diagrama Entidade-Relacionamento).
 
-O MER permite representar de forma abstrata a estrutura que irá construir o banco de dados, é composto pelos seguintes objetos:
+O MER permite representar de forma abstrata a estrutura que construirá o banco de dados. É composto pelos seguintes objetos:
 
 **Entidades:**
 Qual quer coisa, seja uma pessoa, objeto, máquina, estrutura ou equipamento, desde que tenha existência física ou virtual, é chamado de entidade.
@@ -51,9 +52,9 @@ imagem
 
 ## Criando um Modelo de Dados.
 
-Entendendo um pouco dos conceito, criei um modelo de banco de dados, que representa uma loja, nesse caso usei o banco de dados Mysql Server, mas o conceito e lógica, pode ser usada para qualquer banco de dados, ou também, sendo para criar um software, ou um projeto de Engenharia de Dados | Ciencias de Dados.
+Entendendo um pouco do conceito, criei um modelo de banco de dados, que representa uma loja, nesse caso usei o banco de dados Mysql Server, mas o conceito e lógica, pode ser usada para qualquer banco de dados, ou também, sendo para criar um software, ou um projeto de Engenharia de Dados | Ciências de Dados.
 
-Nesse projeto foi criado 10 tabelas, e demosntrando o relacionamento entre as tabelas, conforme imagens:
+Nesse projeto foi criado 10 tabelas, e demonstrando o relacionamento entre as tabelas, conforme imagens:
 
 <p align="center">
   <img src="https://github.com/villani31/modelagem_dados/blob/main/img/Diagrama_modelagem_DB.png?w=740" alt="Modelagem"height=400px >
@@ -71,13 +72,13 @@ Nesse projeto foi criado 10 tabelas, e demosntrando o relacionamento entre as ta
   <img src="https://github.com/villani31/modelagem_dados/blob/main/img/sql02.png?w=740" alt="Modelagem"height=400px >
 </p>
 
-Em um ambiente, como onde temos um ERP, não tem como ser criado um único modelo, ficaria muito dificil a visualização e entendimento, uma forma profissional de se fazer, seria criar modelos separada, como por exemplo (Modelo de vendas, Modelo de cadastro de cliente), de forma separada, visualmente, fica mais claro o entendimento.
+Em um ambiente mais complexo, em que temos um ERP, não tem como ser criado um único modelo, ficaria muito difícil a visualização e entendimento, uma forma profissional de se fazer, seria criar modelos separada, como por exemplo (Modelo de vendas, Modelo de cadastro de cliente), de forma separada, visualmente, fica mais claro o entendimento.
 
 ## Conclusão
 
-A transformação digital é um fenômeno que acontece, e vem acontecendo, a Big Data, vem se tornando uma arma poderosa para garantir a competitividade e retorno de resultado para o negócio. Para garantir um bom resultado do inicio ao fim do projeto, a modelagem de dados, ela que vai lidar  com todas as caracteristicas dos dados, variedade, volume, complexidade e valor.
+A transformação digital é um fenômeno que acontece, e vem acontecendo, a Big Data, vem se tornando uma arma poderosa para garantir a competitividade e retorno de resultado para o negócio. Para garantir um bom resultado do início ao fim do projeto, a modelagem de dados, ela que vai lidar  com todas as características dos dados, variedade, volume, complexidade e valor.
 
-Entendendo como os dados estão relacionados, de forma geral, traz um grande ganho, com entendimento do negócio, facilitando o desenvolvimento de um software, analise e criação de modelo por um cientista de dados, agilisando a entrega de um produto final.
+Entendendo como os dados estão relacionados, de forma geral, traz um grande ganho, com entendimento do negócio, facilitando o desenvolvimento de um software, analise e criação de modelo por um cientista de dados, agilizando a entrega de um produto final.
 
 ----------------------------------------------------------------
 
