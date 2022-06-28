@@ -14,7 +14,7 @@ Por isso é importante entender o negócio e os dados que estão sendo armazenad
 
 Criar um modelo que explique as características de funcionamento e comportamento que os dados serão disponibilizados, e definir qual a relação entre as tabelas em um banco de dados. 
 
-Uma modelagem bem definida é importante na identificação de melhorias, correções e novas funcionalidades, que podem surgir após projeto concluido.
+Uma modelagem bem definida é importante na identificação de melhorias, correções e novas funcionalidades, que podem surgir após projeto concluído.
 
 ## Entidade e relacionamento (MER e DER):
 
